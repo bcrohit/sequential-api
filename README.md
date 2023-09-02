@@ -1,4 +1,4 @@
-# sequential-api
+# Implemening MLP using Neural Networks, Keras
 
 ### This implementation assumes that the reader has basic knowledge about the neural networks, this is not intended for absolute beginners.
 
